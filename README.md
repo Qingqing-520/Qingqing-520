@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**Qingqing-520/Qingqing-520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 🖐️ 哈囉！日安  [![Followers](https://img.shields.io/github/followers/Kalvin520?style=flat-square)](https://github.com/Kalvin520)  
+# Hi 👋, I'm Qingqing
+### Hello everyone, my name is Qingqing, I am a college student. I love learning new technologies and networking skills. I want to leave Taiwan in the future. I want to work in other countries, talk to all kinds of people, and learn more about the world 😸.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
